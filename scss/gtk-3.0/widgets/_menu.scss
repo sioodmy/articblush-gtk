@@ -1,9 +1,11 @@
-@use '../colors';
+@use "../colors";
 
 menu {
-  background: rgba(255,255,255,0.1);
+  background: #151c21;
   menuitem {
     padding: 5px;
-    &:hover { background: colors.$surface-3; }
+    &:hover {
+      background: colors.$surface-3;
+    }
   }
 }
