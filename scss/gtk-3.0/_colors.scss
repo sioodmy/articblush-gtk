@@ -1,8 +1,8 @@
-$surface-1: #0d0e12;
-$surface-2: #1c252c;
-$surface-3: #484e5b;
-$surface-4: #28282a;
-$surface-5: #313135;
+$surface-1: #0c0d10;
+$surface-2: #0e1316;
+$surface-3: #12181d;
+$surface-4: #151c21;
+$surface-5: #1b232a;
 
 $accent-1: #df5b61;
 $accent-2: #e9967e;
@@ -13,10 +13,10 @@ $accent-6: #67afc1;
 $accent-7: #8f5cd6;
 $accent-8: #bc83e3;
 
-$primary-accent: $accent-7;
-$secondary-accent: $accent-4;
+$primary-accent: $accent-5;
+$secondary-accent: $accent-6;
 
-$foreground-color: lighten($surface-5, 45%);
+$foreground-color: #c2cae2;
 
 $highlight: rgba(255, 255, 255, 0.15);
 
