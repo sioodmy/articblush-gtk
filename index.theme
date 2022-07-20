@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=phocus
-Comment=the phocus theme
+Name=articblush
+Comment=articblush gtk theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=phocus
-MetacityTheme=phocus
+GtkTheme=articblush
+MetacityTheme=articblush
 IconTheme=gnome
 CursorTheme=DMZ-Black
 ButtonLayout=menu:minimize,maximize,close
