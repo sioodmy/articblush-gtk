@@ -1,0 +1,24 @@
+$surface-1: #0d0e12;
+$surface-2: #1c252c;
+$surface-3: #484e5b;
+$surface-4: #28282a;
+$surface-5: #313135;
+
+$accent-1: #df5b61;
+$accent-2: #e9967e;
+$accent-3: #de8f78;
+$accent-4: #78b892;
+$accent-5: #6791c9;
+$accent-6: #67afc1;
+$accent-7: #8f5cd6;
+$accent-8: #bc83e3;
+
+$primary-accent: $accent-7;
+$secondary-accent: $accent-4;
+
+$foreground-color: lighten($surface-5, 45%);
+
+$highlight: rgba(255, 255, 255, 0.15);
+
+// TODO: is there a better way to do this? this is for example used in gnome-calculator for the result top-border
+@define-color borders #{"" +$surface-2};

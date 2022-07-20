@@ -1,0 +1,4 @@
+node_modules/
+/gtk-3.0/
+.idea/
+result

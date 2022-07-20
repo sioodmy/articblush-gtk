@@ -1,0 +1,1 @@
+# Articblush gtk theme
