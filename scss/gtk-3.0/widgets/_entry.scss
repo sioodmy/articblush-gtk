@@ -1,4 +1,4 @@
-@use '../colors';
+@use "../colors";
 
 entry {
   transition: all 100ms ease-in-out;
@@ -8,7 +8,7 @@ entry {
   border-radius: 5px;
 
   &:focus {
-    border-color: colors.$accent-7;
+    border-color: colors.$surface-3;
     background: transparentize(white, 0.9);
   }
 
@@ -17,8 +17,12 @@ entry {
   }
 
   image {
-    &.left { margin-right: 8px; }
-    &.right { margin-left: 8px; }
+    &.left {
+      margin-right: 8px;
+    }
+    &.right {
+      margin-left: 8px;
+    }
   }
 
   selection {
